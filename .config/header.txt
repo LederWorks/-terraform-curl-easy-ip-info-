@@ -1,0 +1,6 @@
+<!-- markdownlint-disable-file MD033 MD012 -->
+# terraform-curl-easy-ip-info
+Easy Curl IP Info
+
+# Authors
+  - [Bence Bánó](mailto:bence.bano@lederworks.com)
